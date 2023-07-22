@@ -9,5 +9,11 @@
       "x": 458,
       "y": 567
     }
+  ],
+  "whitelist": [
+    {
+      "name": "Cookie",
+      "url": "https://rentry.co/placecookie/raw"
+    }
   ]
 }
