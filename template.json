@@ -20,10 +20,18 @@
     {
       "name": "deadmau5: No Mana",
       "sources": [
-        "https://i.imgur.com/H883v4q.png"
+        "https://i.imgur.com/bUAma0B.png"
       ],
       "x": 1363,
       "y": 1912
+    },
+    {
+      "name": "deadmau5: REZZ",
+      "sources": [
+        "https://i.imgur.com/T3naybT.png"
+      ],
+      "x": 409,
+      "y": 801
     }
   ],
   "whitelist": [
